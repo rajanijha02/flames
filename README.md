@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+# SETUP
+
+```bash
+git clone https://github.com/rajanijha02/flames.git
+cd flames
+flutter run
+```
+
+# SCREENSHOT
+
+![](./flutter_01.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
